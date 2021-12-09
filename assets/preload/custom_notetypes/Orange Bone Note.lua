@@ -20,6 +20,9 @@ end
 -- isSustainNote: If it's a hold note, can be either true or false
 function noteMiss(id, noteData, noteType, isSustainNote)
 	if noteType == 'Orange Bone Note' then
-		setProperty('health', -10.20.30);
+		setProperty('health', -500);
+	end
+end
+lth', -10.20.30);
 	end
 end
