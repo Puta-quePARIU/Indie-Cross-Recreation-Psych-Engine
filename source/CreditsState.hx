@@ -46,7 +46,6 @@ class CreditsState extends MusicBeatState
 		add(grpOptions);
 
 		var pisspoop = [ //Name - Icon name - Description - Link - BG Color
-			
 			['Android Port'],
 			['M.A. Jigsaw',		    'majigsaw',		    'Main Coder of The Port',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	'0xFFC30085'],
 			['Psych Engine Team'],
