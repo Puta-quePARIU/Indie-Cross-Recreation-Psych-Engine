@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ring_Note.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="green0000" x="0" y="235" width="150" height="150"/>
+	<SubTexture name="green hold end0000" x="307" y="235" width="50" height="64"/>
+	<SubTexture name="green hold piece0000" x="357" y="235" width="50" height="44"/>
+	<SubTexture name="up confirm0000" x="958" y="466" width="233" height="234"/>
+	<SubTexture name="up confirm0001" x="1191" y="466" width="205" height="206" frameX="-14" frameY="-14" frameWidth="233" frameHeight="234"/>
+	<SubTexture name="up confirm0002" x="1191" y="466" width="205" height="206" frameX="-14" frameY="-14" frameWidth="233" frameHeight="234"/>
+	<SubTexture name="up confirm0003" x="1191" y="466" width="205" height="206" frameX="-14" frameY="-14" frameWidth="233" frameHeight="234"/>
+	<SubTexture name="up confirm0004" x="1191" y="466" width="205" height="206" frameX="-14" frameY="-14" frameWidth="233" frameHeight="234"/>
+	<SubTexture name="up press0000" x="1396" y="466" width="150" height="150" frameX="-4" frameY="-4" frameWidth="158" frameHeight="159"/>
+	<SubTexture name="up press0001" x="1396" y="466" width="150" height="150" frameX="-4" frameY="-4" frameWidth="158" frameHeight="159"/>
+	<SubTexture name="up press0002" x="1546" y="466" width="158" height="159"/>
+	<SubTexture name="up press0003" x="1546" y="466" width="158" height="159"/>
+</TextureAtlas>
